@@ -21,7 +21,7 @@ The dataset cleaning process involved several steps to ensure data quality and c
 
 ## Machine Learning Model
 
-The prediction model utilizes a supervised learning approach to predict the winner of matches. Various machine learning algorithms were evaluated, and the model with the highest performance was selected for deployment. 
+The prediction model utilizes a supervised learning approach to predict the winner of matches. Various machine learning algorithms were evaluated, and the model with the highest performance was selected for deployment. Some Famous python libraries like Numpy, matplotlib and seaborn are imported as well.
 
 ## Usage
 
